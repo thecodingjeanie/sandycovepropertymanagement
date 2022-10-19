@@ -1,23 +1,22 @@
 body {
-    background-color: beige;
+    background-color: #ffffe6;
     font-family: Arial, sans-serif;
     color: #261a0d;
 }
 
 .header-container {
     display: flex;
-    background-color: #ac7339;
-    color: beige;
+    background-color: #c68c53;
+    color: #ffffe6;
     align-items: center;
     align-self: center;
     justify-content: center;
     flex-wrap: wrap;
-    padding: 100px;
+    padding: 20px;
 }
 
-.logo {
-    font-size: 30px;
-    font-weight: bold;
+img {
+    width: 300px;
 }
 
 .services-container {
@@ -51,8 +50,8 @@ body {
 
 .contact-container {
     display: flex;
-    background-color: #b3bfe6;
-    color: beige;
+    background-color: #85a3e0;
+    color: #261a0d;
     font-weight: bold;
     align-items: center;
     align-self: center;
@@ -66,7 +65,7 @@ body {
 .contact-info {
     border: 2px solid #261a0d;
     padding: 20px;
-    background-color: #334d99;
+    background-color: #ffffe6;
 }
 
 .quote-container {
@@ -89,8 +88,8 @@ body {
     align-self: center;
     justify-content: center;
     padding: 50px;
-    background-color: #ac7339;
-    color: beige;
+    background-color: #c68c53;
+    color: #ffffe6;
     font-weight: bold;
 }
 
