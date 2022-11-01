@@ -8,7 +8,6 @@ body {
 .header-container {
     display: flex;
     background-color: white;
-    color: white;
     align-items: center;
     align-self: center;
     justify-content: center;
@@ -18,6 +17,48 @@ body {
 
 img {
     width: 300px;
+}
+
+.nav-container {
+    display: flex;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #f6b758;
+    color: #261a0d;
+    border: 2px solid #261a0d;
+    padding: 50px;
+    gap: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #261a0d;
+}
+
+.heading-container {
+    display: flex;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #b3d9ff;
+    color: #261a0d;
+    font-size: 40px;
+    padding: 80px;
+}
+
+.contact-page-container {
+    display: flex;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-size: 30px;
+    padding: 120px;
+    gap: 50px;
 }
 
 .services-container {
@@ -80,10 +121,6 @@ img {
     align-items: center;
     align-self: center;
     justify-content: center;
-}
-
-.quote {
-
 }
 
 .footer-container {
