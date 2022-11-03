@@ -25,7 +25,7 @@ body {
     align-self: center;
     justify-content: center;
     flex-wrap: wrap;
-    background-color: #f6b758;
+    background-color: #F6C57C;
     color: #261a0d;
     border: 2px solid #261a0d;
     padding: 50px;
@@ -131,7 +131,7 @@ a {
 
 .contact-info {
     border: 2px solid #261a0d;
-    background-color: #f6b758;
+    background-color: #F6C57C;
     padding: 50px;
 }
 
